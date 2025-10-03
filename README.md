@@ -7,9 +7,6 @@ A delivery shop application built with classic Artificial Intelligence (AI) to h
 * [Project Description](#project-description)
 * [Problem Formulation](#problem-formulation)
 * [Algorithms Used](#algorithms-used)
-* [Test Samples](#test-samples)
-* [Requirements](#requirements)
-
 ***
 
 ## Project Description
