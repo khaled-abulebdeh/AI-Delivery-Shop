@@ -1,0 +1,5 @@
+vehicle_id,capacity,is_available
+v1,50,True
+v2,60,True
+v3,40,True
+v4,70,True
